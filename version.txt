@@ -1,4 +1,4 @@
 Testo Toolbox testo 300/320/324/330/340/350 
 part number 0501 0356 
-version 1.5.2.36702 
-25.09.2023 
+version 1.5.3.36969 
+06.11.2024 
